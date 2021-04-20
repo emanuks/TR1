@@ -15,7 +15,6 @@
 
 using namespace std;
 
-
 void AplicacaoTransmissora();
 
 void CamadaDeAplicacaoTransmissora(string);
